@@ -37,9 +37,7 @@ Si deseas contribuir a este proyecto, eres bienvenido(a) a enviar tus propuestas
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia [MIT
-
-](https://opensource.org/licenses/MIT). Para obtener más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto se distribuye bajo la licencia [MIT](https://opensource.org/licenses/MIT). Para obtener más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ## Contacto
 
